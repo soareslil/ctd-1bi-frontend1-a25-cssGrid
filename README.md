@@ -1,6 +1,6 @@
 ## BEM VINDX AO MEU REPOSITÓRIO 👩‍💻👩‍💻✨
 
-### __Aula 08 Propriedades CSS__
+### __Aula 25 GRID LAYOUT__
 
 <br>
 
