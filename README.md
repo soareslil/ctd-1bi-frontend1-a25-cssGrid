@@ -9,7 +9,7 @@
 [Link do PDF de requisitos](https://github.com/soareslil/ctd-1bi-frontend1-a25-cssGrid/blob/main/%5BMT%5D%20AULA%2025%20-%20GRID.pdf)
 
 ### ✔️ RESULTADO DO MEU PROJETO:  
-[Link do projeto no ar]() 
+[Link do projeto no ar](https://soareslil.github.io/ctd-1bi-frontend1-a25-cssGrid/) 
 
 
 __TODOS OS DIREITOS RESERVADOS A ESCOLA DIGITAL HOUSE CODING SCHOOL__
